@@ -1,0 +1,6 @@
+#The simulations for section 1 "Machine Unlearning" are in the MLProojectSection1 file.
+#The simulations for section 2 "Private Training" with mnist dataset and beter accuracies are 
+in the AllBaseLineRelatedModels file and AllModifiedRelatedModels file.
+#The simulations for section 2 "Private Training"  with CIFAR-10 dataset and The simulations for section 3 "Membership Inference Attack"
+are in the MLProojectSection23 file. Make sure to use BaselineModel.pth and ModifiedModel.pth for runing.
+#the Report file is based on MLProojectSection23 file.
